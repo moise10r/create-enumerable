@@ -66,13 +66,6 @@ If you are non a technical person you can download the zip file.
 
 ## Author
 
-👤 **Abraham Rodriguez**
-
-- GitHub: [@metsanpeitto](https://github.com/Metsanpeitto)
-- Twitter: [@metsanpeitto](https://twitter.com/home)
-- LinkedIn: [Abraham Rodriguez](https://www.linkedin.com/in/abraham-rodriguez-3283a319a/)
-- Portfolio: [Waldenberg](https://portfolio.waldenberginc.com)
-
 👤 NGANULO RUSHANIKA Moise
 
 - GitHub: [@githubhandle](https://github.com/moise10r)
